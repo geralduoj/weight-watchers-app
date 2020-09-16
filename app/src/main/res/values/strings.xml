@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeightWatchers</string>
+    <string name="img">img</string>
+    <string name="test_your_weight">Test your weight</string>
+    <string name="over">Pay attention to your health, …you may need to balance your weight by loosing</string>
+    <string name="below">Pay attention to your health, …you may need to balance your weight by gaining</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="heightlbl">Your Height</string>
+    <string name="heightdesclbl">(in centimeter)</string>
+    <string name="weightdesclbl">(in kilos)</string>
+    <string name="weightlbl">Your Weight</string>
+    <string name="genderlbl">Your Gender</string>
+    <string name="maleGender">Male</string>
+    <string name="femaleGender">Female</string>
+    <string name="calc">Calculate</string>
+    <string name="calcAgain">Calculate Again</string>
+    <string name="testMsg">Hello Jude Nam, You need to lose 7.25kg</string>
+    <string name="cardStatlbl">Your Weight Status</string>
+
+</resources>
